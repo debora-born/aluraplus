@@ -8,10 +8,23 @@
   
 </div>
 
+<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
+
+<hr>
+
+
+## O Projeto
+
+<p>Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
+
+Este projeto front-end faz parte do curso "HTML e CSS: praticando HTML/CSS" da escola Alura, e conta com o desenvolvimento de uma plataforma de streaming, o Alura Plus. A partir dos dados que o Designer disponibilizou no arquivo do Figma, informações, imagens, configurações de fonte, cor, tamanho etc foi desenvolvido um site com layout responsivo. Este projeto foi criado para reforçar, praticar os aprendizados e unir os conhecimentos da Formação HTML e CSS da Alura.
+
+## Tecnologias
+* HTML5
+* CSS3
+* Figma
+
+## Screenshots
 <div align="center">
   <img src="https://user-images.githubusercontent.com/111386719/212994471-91533b55-1bf2-442f-80a8-8629754fad35.png" width="75%">
 </div>
-
-**O Projeto**
-
-Este projeto front-end conta com o desenvolvimento de uma plataforma de streaming da Alura, o Alura Plus, e faz parte do curso "HTML e CSS: praticando HTML/CSS" da escola. A partir dos dados que o Designer disponibilizou no arquivo do Figma, informações, imagens, configurações de fonte, cor, tamanho etc foi desenvolvido um site com layout responsivo. Este projeto foi criado para reforçar, praticar os aprendizados e unir os conhecimentos da Formação HTML e CSS da Alura.
